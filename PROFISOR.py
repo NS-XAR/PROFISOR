@@ -67,8 +67,8 @@ logo = logo ="""
 ===============CRACKER==================
 [1]Owenar//@i4m_Pr0fisor
 [2]Bashtrin Tool Taesa Bardast By
-[3]Nrxi tool //No sel 0$
-[4]Chanal Tligram//@hacked_lord_comm
+[3]Nrxi tool //5 DOLARY KORAK
+[4]Chanal Tligram//@PROFISORCRACKER1
 
 """
 back = 0
